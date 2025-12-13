@@ -1,4 +1,4 @@
-\# How to use
+# How to use
 
 \- Have <a href="https://www.python.org/">Python</a> installed.
 
